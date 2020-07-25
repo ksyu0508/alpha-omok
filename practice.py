@@ -1,0 +1,27 @@
+from omok.OmokGame import OmokGame as game
+from omok.OmokLogic import Board
+
+g = game(15)
+b = g.getInitBoard()
+pl = 1
+game.display(b)
+b, pl = g.getNextState(b,pl,49)
+game.display(b)
+b, pl = g.getNextState(b,pl,50)
+b, pl = g.getNextState(b,pl,64)
+b, pl = g.getNextState(b,pl,65)
+b, pl = g.getNextState(b,pl,66)
+game.display(b)
+print(pl ,g.getGameEnded(b, pl))
+b, pl = g.getNextState(b,pl,51)
+b, pl = g.getNextState(b,pl,35)
+b, pl = g.getNextState(b,pl,224)
+b, pl = g.getNextState(b,pl,63)
+game.display(b)
+print(pl ,g.getGameEnded(b, pl))
+b, pl = g.getNextState(b,pl,0)
+b, pl = g.getNextState(b,pl,21)
+b, pl = g.getNextState(b,pl,12)
+b, pl = g.getNextState(b,pl,7)
+game.display(b)
+print(pl ,g.getGameEnded(b, pl))
