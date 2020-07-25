@@ -1,6 +1,6 @@
 # alpha-omok
 
-[발표자료]<https://github.com/ksyu0508/alpha-omok/blob/master/2019-2_%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf>
+[발표자료](https://github.com/ksyu0508/alpha-omok/blob/master/2019-2_%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 | |알파제로|알파고|
 |---|---|---|
