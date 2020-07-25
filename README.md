@@ -3,7 +3,7 @@
 ## 실행 예시
 ![example](./imgs/강화.gif)
 
-![endgame](./imgs/endgame.png)
+![endgame](./imgs/endgame.png){: width="100" height="100"}
 
 ## thanks to
 - YBIGTA 15기 김정학
